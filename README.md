@@ -1,3 +1,5 @@
+# That's a backup from https://github.com/docker-gallery/EnterpriseApplicationLog ;)
+
 # EnterpriseApplicationLog
 Enterprise Application Log with RabbitMQ, LogStash, ElasticSearch and Kibana
 
@@ -56,12 +58,3 @@ Upgrade to Elasticsearch 6.2.2, Logstash 6.2.2, Kibana 6.2.2 with new images pro
 ### Beats
 - Monitoring and collecting metrics from ```Docker Daemon```, ```ElasticSearch``` and ```RabbitMQ```.
 - Automatic setup some dashboards to show these metrics
-
-# Enjoy!
-more content like that you will see on:
-- [Website / Blog](http://gago.io/)
-- [YouTube](https://www.youtube.com/luizcarlosfaria/)
-- [Facebook Page](https://www.facebook.com/ArquitetoDeSolucoes/)
-- [Facebook Group](https://www.facebook.com/groups/arquiteturadotnet/)
-
-All content still produced in PT-BR language. To request an english version, please send me a message on [twitter](https://twitter.com/luizcarlosfaria) or [email](mailto:luizcarlosfaria@gmail.com).
